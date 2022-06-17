@@ -21,25 +21,5 @@ class RegexReplacementTest {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
